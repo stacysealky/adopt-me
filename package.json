@@ -1,0 +1,23 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "pet adoption React app",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacysealky/adopt-me.git"
+  },
+  "author": "Stacy Sealky Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacysealky/adopt-me/issues"
+  },
+  "homepage": "https://github.com/stacysealky/adopt-me#readme",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
